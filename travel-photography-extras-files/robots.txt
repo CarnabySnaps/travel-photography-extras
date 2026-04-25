@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://CarnabySnaps.github.io/travel-photography-extras/sitemap.xml
